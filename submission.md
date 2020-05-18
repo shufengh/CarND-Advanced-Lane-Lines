@@ -110,7 +110,7 @@ I reused the *transform_perspective* function to unwrap the region back to the o
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to the pipeline result for the project video](./output_images/project_video_lane_marked.mp4)
+Here's a [link to the pipeline result for the project video](https://youtu.be/jrHBYlUt0CY)
 
 ---
 
